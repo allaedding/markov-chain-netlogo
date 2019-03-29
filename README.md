@@ -1,4 +1,4 @@
-# markov-chain-netlogo using netlogo
+﻿# markov-chain-netlogo using netlogo
 this project created by NetLogo 5.3.1 version 
 
 A Markov chain is a probabilistic model describing a system that changes from state to state, 
@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=FBAeduCqJHQ
 
 
 
-# screenshots
+# screenshots:
 
 
 ![1](https://user-images.githubusercontent.com/45392637/55217782-a4ceba80-5200-11e9-840f-7f4f72625d6f.JPG)
